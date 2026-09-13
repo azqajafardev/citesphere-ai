@@ -1,11 +1,15 @@
+# citesphere-ai
+
+> **Project name:** citesphere-ai. Setup commands, source repository URLs, the enterprise website, donation link, GitHub star badge, and original SVG artwork below still refer to the upstream CORTEX RAG project. They are not citesphere-ai services or accounts; replace the original artwork when you have your own branded assets.
+
 <p align="center">
-  <img src="assets/banner.svg" alt="Cortex RAG — Agentic Retrieval Engine 2026" width="100%"/>
+  <img src="assets/banner.svg" alt="citesphere-ai — Agentic Retrieval Engine 2026" width="100%"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="assets/demo.svg" alt="Cortex RAG in action" width="92%"/>
+  <img src="assets/demo.svg" alt="citesphere-ai in action" width="92%"/>
 </p>
 <p align="center">
   <sub>↑ &nbsp; what actually happens every time you send a message</sub>
@@ -29,7 +33,7 @@
 
 <h3 align="center">
   You upload a PDF. You ask a question.<br/>
-  Cortex RAG retrieves, cross-checks, reasons, and cites — entirely on your machine.<br/>
+  citesphere-ai retrieves, cross-checks, reasons, and cites — entirely on your machine.<br/>
   <sub>No API key &nbsp;·&nbsp; No cloud upload &nbsp;·&nbsp; No subscription</sub>
 </h3>
 
@@ -43,9 +47,9 @@
 
 <br/>
 
-> **Open for Enterprise.**
-> We build custom, production-grade RAG systems for organizations — same 9-layer pipeline, tuned to your data, your permissions, your stack. Deployed in days, not months. At a fraction of what closed-source vendors charge.
-> **[→ See what we can build for you](https://cortex-rag-beta.vercel.app/)**
+> **Original project enterprise offering.**
+> The original team offers custom, production-grade RAG systems for organizations — same 9-layer pipeline, tuned to your data, your permissions, your stack. Deployed in days, not months. At a fraction of what closed-source vendors charge.
+> **[→ See the upstream enterprise offering](https://cortex-rag-beta.vercel.app/)**
 
 <br/>
 
@@ -339,7 +343,7 @@ docker-compose up
 <p align="center">
   Built with curiosity &nbsp;·&nbsp; runs on your machine &nbsp;·&nbsp; owned by you
   <br/><br/>
-  <a href="https://www.reddit.com/user/akhilpanja/">Reddit</a>
+  <a href="https://www.reddit.com/user/akhilpanja/">Original author on Reddit</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/SaiAkhil066/CORTEX-AI-SUPER-RAG/issues">Issues</a>
   &nbsp;·&nbsp;
@@ -351,7 +355,7 @@ docker-compose up
 ---
 
 <p align="center">
-  <b>If Cortex RAG saved you time, consider buying us a coffee ☕</b>
+  <b>Support the original CORTEX RAG author ☕</b>
   <br/><br/>
   <a href="https://razorpay.me/@saiakhil">
     <img src="https://img.shields.io/badge/Support%20this%20project-Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF"/>
